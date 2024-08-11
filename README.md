@@ -1,2 +1,3 @@
 # Training-JS test
-111
+
+1. BasicsJS.js - Основы JavaScript
